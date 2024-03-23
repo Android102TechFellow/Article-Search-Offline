@@ -1,1 +1,1 @@
-[](OfflineLabSubmission.gif)
+![](OfflineLabSubmission.gif)
